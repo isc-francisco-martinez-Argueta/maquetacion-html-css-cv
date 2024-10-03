@@ -434,6 +434,9 @@ ul li:last-child {
   width: 45px;
   height: 45px;
 }
+.icon.wifri{
+  background-color: #2a528f;
+}
 
 .none {
   display: none;
